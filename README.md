@@ -1,4 +1,4 @@
-# PC_Part-Data-Classification
+# PC Parts Image Classification using Deep Learning
 
 **Project Overview:**
 
